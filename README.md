@@ -47,3 +47,7 @@
    - I had put a demo unit test just to show the framwork utility.
    - I might add more unit test if time permits.
 
+### How to run
+   - To run from IDE, simply run the main method. (HorseRaceATM.java)
+   - From command line, locate `HorseRaceATM.java` file in the command prompt. Run `javac HorseRaceATM.java` and then `java HorseRaceATM`
+   - To run a sample unit test, use command `mvn test`
