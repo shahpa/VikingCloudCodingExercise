@@ -15,7 +15,7 @@
     - R or r
     - Q or q
     - W or w [1-7]
-    - [1-7] <amount>
+    - [1-7] \<amount\>
    
 4. Core logic
    - Betting
